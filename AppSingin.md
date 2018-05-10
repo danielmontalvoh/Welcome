@@ -1,8 +1,11 @@
 ## Iniciar sesión como aplicación
 
 ### Endpoints
-* <span style="color:red">`http://localhost/api`</span> 
-* <span style="color:red">`http://localhost/api`</span> 
+* <span style="color:red">`http://190.60.234.203:8081/api`</span>
+Endpoint para desarrollo
+
+* <span style="color:red">`http://190.60.234.203:8081/api`</span>
+Endpoint para producción
 
 ### Descripción
 Provee la autenticación para las aplicaciones.
