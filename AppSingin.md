@@ -1,4 +1,8 @@
-## Iniciar sesión en la aplicación
+## Iniciar sesión como aplicación
+
+### Endpoints
+* <span style="color:red">`http://localhost/api`</span> 
+* <span style="color:red">`http://localhost/api`</span> 
 
 ### Descripción
 Provee la autenticación para las aplicaciones.
